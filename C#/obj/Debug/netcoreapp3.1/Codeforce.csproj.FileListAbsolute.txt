@@ -1,0 +1,13 @@
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/bin/Debug/netcoreapp3.1/Codeforce
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/bin/Debug/netcoreapp3.1/Codeforce.deps.json
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/bin/Debug/netcoreapp3.1/Codeforce.runtimeconfig.json
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/bin/Debug/netcoreapp3.1/Codeforce.runtimeconfig.dev.json
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/bin/Debug/netcoreapp3.1/Codeforce.dll
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/bin/Debug/netcoreapp3.1/Codeforce.pdb
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.csprojAssemblyReference.cache
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.AssemblyInfoInputs.cache
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.AssemblyInfo.cs
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.csproj.CoreCompileInputs.cache
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.dll
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.pdb
+/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/Debug/netcoreapp3.1/Codeforce.genruntimeconfig.cache

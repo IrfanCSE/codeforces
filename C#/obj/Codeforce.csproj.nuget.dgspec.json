@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/Codeforce.csproj": {}
+  },
+  "projects": {
+    "/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/Codeforce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/Codeforce.csproj",
+        "projectName": "Codeforce",
+        "projectPath": "/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/Codeforce.csproj",
+        "packagesPath": "/home/irfan/.nuget/packages/",
+        "outputPath": "/media/irfan/New Volume/Dev/Console/CodeForce/Codeforce/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/irfan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
